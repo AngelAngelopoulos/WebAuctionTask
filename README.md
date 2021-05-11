@@ -30,6 +30,7 @@ This App uses Postgresql as database engine, so, you shall be create a database 
 cd auctionAPI
 python3 -m venv venv
 venv/bin/pip3 install -r requirements.txt
+venv/bin/python3 manage.py migrate
 venv/bin/python3 manage.py runserver 
 ```
 
