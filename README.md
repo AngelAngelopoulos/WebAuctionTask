@@ -63,7 +63,7 @@ Then you should create a superuser with the command
 ```
 venv/bin/python3 manage.py createsuperuser
 ```
-After this, you can enter in the Django admin panel. Here we are going to create another User and Items 
+After this, you can enter in the Django admin panel (http://localhost:8000/admin/). Here we are going to create another User and Items 
 
 ![Screen Shot 2021-05-10 at 7 25 32 PM](https://user-images.githubusercontent.com/42707643/117741395-00cde080-b1c8-11eb-9662-b2ec4aeef76a.png)
 
@@ -79,7 +79,7 @@ After this, we going to create a normal user
 ![Screen Shot 2021-05-10 at 8 07 12 PM](https://user-images.githubusercontent.com/42707643/117742900-5b1c7080-b1cb-11eb-8bbd-7de0c55e53f3.png)
 
 
-Done, all is well with the app.
+Done, all is well with the app (http://localhost:3000/).
 
 ![Screen Shot 2021-05-10 at 8 09 45 PM](https://user-images.githubusercontent.com/42707643/117743060-ad5d9180-b1cb-11eb-8fc3-f7a38c6c0d18.png)
 
