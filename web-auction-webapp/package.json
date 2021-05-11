@@ -1,0 +1,30 @@
+{
+  "name": "web-auction-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.1.1",
+    "cookie": "^0.4.1",
+    "isomorphic-fetch": "^3.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "next": "10.2.0",
+    "next-cookies": "^2.0.3",
+    "next-pagination": "^2.1.1",
+    "react": "17.0.2",
+    "react-cookie": "^4.0.3",
+    "react-dom": "17.0.2",
+    "react-paginate": "^7.1.2",
+    "sweetalert2": "^10.16.7"
+  },
+  "devDependencies": {
+    "@heroicons/react": "^1.0.1",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.13",
+    "tailwindcss": "^2.1.2"
+  }
+}
